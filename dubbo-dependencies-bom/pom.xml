@@ -93,7 +93,7 @@
         <!-- <spring_version>4.3.30.RELEASE</spring_version> -->
         <spring_version>5.3.25</spring_version>
         <javassist_version>3.29.2-GA</javassist_version>
-        <bytebuddy.version>1.12.22</bytebuddy.version>
+        <bytebuddy.version>1.14.0</bytebuddy.version>
         <netty_version>3.2.10.Final</netty_version>
         <netty4_version>4.1.72.Final</netty4_version>
         <mina_version>2.2.1</mina_version>
